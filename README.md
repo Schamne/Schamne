@@ -8,7 +8,7 @@
 
 - How to reach me: **Linkedin or julianschamne@gmail.com**
 
-- Know about my experiences **2 years as data analyst working daily with Power BI and Excel creating dashboards for a financial consultancy company**
+- Know about my experiences: **2 years as data analyst working daily with Power BI and Excel creating dashboards for a financial consultancy company**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
