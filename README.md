@@ -1,14 +1,14 @@
 # AboutMe
 <h1 align="center">Hi, I'm Julian Schamne</h1>
-<h3 align="center">A very focused data analyst from Brazil</h3>
+<h3 align="center"></h3>
 
-- I’m open to remote work as **Data Analyst**
+- I’m open to remote work as a **Data Analyst**
 
-- I actually have knowledge on **Python, Power BI, Excel and SQL**
+-Extensive python, excel and Power BI knowledge. Currently improving SQL** 
 
 - How to reach me: **Linkedin or julianschamne@gmail.com**
 
-- Know about my experiences: **2 years as data analyst working daily with Power BI and Excel creating dashboards for a financial consultancy company**
+- Know about my experiences: **2 years as a data analyst working daily with Power BI and Excel creating dashboards for a financial consultancy company**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
