@@ -4,7 +4,7 @@
 
 - I’m open to remote work as a **Data Analyst**
 
--Extensive python, excel and Power BI knowledge. Currently improving SQL** 
+- Extensive python, excel and Power BI knowledge. Currently improving SQL** 
 
 - How to reach me: **Linkedin or julianschamne@gmail.com**
 
